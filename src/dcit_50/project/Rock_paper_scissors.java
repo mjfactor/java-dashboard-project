@@ -27,16 +27,16 @@ public class Rock_paper_scissors extends javax.swing.JFrame implements Runnable 
     boolean lizard2 = false;
     boolean spock2 = false;
 
-    ImageIcon icon = new ImageIcon("D:\\PNG for Project\\icons8-hand-270.png");
-    ImageIcon icon2 = new ImageIcon("D:\\PNG for Project\\icons8-hand-rock-270 .png");
-    ImageIcon icon3 = new ImageIcon("D:\\PNG for Project\\icons8-hand-scissors-270.png");
-    ImageIcon icon4 = new ImageIcon("D:\\PNG for Project\\icons8-hand-270.png");
-    ImageIcon icon5 = new ImageIcon("D:\\PNG for Project\\icons8-hand-rock-270 .png");
-    ImageIcon icon6 = new ImageIcon("D:\\PNG for Project\\icons8-hand-scissors-270.png");
-    ImageIcon icon7 = new ImageIcon("D:\\PNG for Project\\icons8-hand-lizard-skin-type-5-270.png");
-    ImageIcon icon8 = new ImageIcon("D:\\PNG for Project\\icons8-spock-270.png");
-    ImageIcon icon9 = new ImageIcon("D:\\PNG for Project\\icons8-hand-lizard-skin-type-5-270.png");
-    ImageIcon icon10 = new ImageIcon("D:\\PNG for Project\\icons8-spock-270.png");
+    ImageIcon icon = new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-hand-270.png");
+    ImageIcon icon2 = new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-hand-rock-270 .png");
+    ImageIcon icon3 = new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-hand-scissors-270.png");
+    ImageIcon icon4 = new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-hand-270.png");
+    ImageIcon icon5 = new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-hand-rock-270 .png");
+    ImageIcon icon6 = new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-hand-scissors-270.png");
+    ImageIcon icon7 = new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-hand-lizard-skin-type-5-270.png");
+    ImageIcon icon8 = new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-spock-270.png");
+    ImageIcon icon9 = new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-hand-lizard-skin-type-5-270.png");
+    ImageIcon icon10 = new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-spock-270.png");
 
     public Rock_paper_scissors() {
 
@@ -1018,8 +1018,8 @@ public class Rock_paper_scissors extends javax.swing.JFrame implements Runnable 
     }//GEN-LAST:event_jButton11ActionPerformed
 
     private void kButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_kButton1ActionPerformed
-        jLabel2.setIcon(new ImageIcon("D:\\PNG for Project\\icons8-question-mark-270.png"));
-        jLabel5.setIcon(new ImageIcon("D:\\PNG for Project\\icons8-question-mark-270.png"));
+        jLabel2.setIcon(new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-question-mark-270.png"));
+        jLabel5.setIcon(new ImageIcon("D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\icons8-question-mark-270.png"));
         jLabel11.setText("3");
         jLabel13.setText("3");
 

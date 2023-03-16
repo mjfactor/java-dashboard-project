@@ -15,9 +15,9 @@ import java.util.Random;
  */
 public class Play_Petals_Around_The_Rose extends javax.swing.JFrame implements Runnable {
 
-    String[] dice = {"D:\\PNG for Project\\Dice one.png ", "D:\\PNG for Project\\Dice 2.png ",
-        "D:\\PNG for Project\\dice 3.png ", "D:\\PNG for Project\\dice 4.png ",
-        "D:\\PNG for Project\\dice 5.png ", "D:\\PNG for Project\\dice 6.png "};
+    String[] dice = {"D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\Dice one.png ", "D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\Dice 2.png ",
+        "D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\dice 3.png ", "D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\dice 4.png ",
+        "D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\dice 5.png ", "D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\dice 6.png "};
     Random rand = new Random();
     int result = 0, result2 = 0, result3 = 0, result4 = 0, result5;
     int finalresult = 0;
