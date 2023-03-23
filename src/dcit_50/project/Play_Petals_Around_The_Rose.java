@@ -7,6 +7,7 @@ import java.awt.Color;
 import java.awt.Container;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.net.URL;
 import java.util.Random;
 
 /**
@@ -15,9 +16,11 @@ import java.util.Random;
  */
 public class Play_Petals_Around_The_Rose extends javax.swing.JFrame implements Runnable {
 
-    String[] dice = {"D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\Dice one.png ", "D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\Dice 2.png ",
-        "D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\dice 3.png ", "D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\dice 4.png ",
-        "D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\dice 5.png ", "D:\\Java\\INTELIj projects\\java-dashboard-project\\src\\dcit_50\\project\\dice 6.png "};
+
+    String[] dice = {"java-dashboard-project\\src\\dcit_50\\project\\Dice one.png ", "java-dashboard-project\\src\\dcit_50\\project\\Dice 2.png ",
+        "java-dashboard-project\\src\\dcit_50\\project\\dice 3.png ", "java-dashboard-project\\src\\dcit_50\\project\\dice 4.png ",
+        "java-dashboard-project\\src\\dcit_50\\project\\dice 5.png ", "java-dashboard-project\\src\\dcit_50\\project\\dice 6.png "};
+
     Random rand = new Random();
     int result = 0, result2 = 0, result3 = 0, result4 = 0, result5;
     int finalresult = 0;

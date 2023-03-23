@@ -3,7 +3,6 @@ package dcit_50.project;
 import java.awt.Color;
 
 import dcit_50.project.Project;
-
 import javax.swing.*;
 
 /**
